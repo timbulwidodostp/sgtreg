@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p sgtreg Regression using the Skewed Generalized T Distribution Use sgtreg With STATA 18
