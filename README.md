@@ -1,6 +1,8 @@
 # sgtreg
 Regression using the Skewed Generalized T Distribution Use sgtreg With STATA 18
 
+Regression with a Skewed Generalized T Error Term With STATA 18
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
