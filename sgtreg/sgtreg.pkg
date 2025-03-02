@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'sgtreg': Regression using the Skewed Generalized T Distribution Use sgtreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f sgtevaluator.ado
+f sgtevaluator.sthlp
+f sgtreg.ado
+f sgtreg.sthlp
