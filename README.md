@@ -3,6 +3,8 @@ Regression using the Skewed Generalized T Distribution Use sgtreg With STATA 18
 
 Regression with a Skewed Generalized T Error Term With STATA 18
 
+https://www.youtube.com/watch?v=wRULH-0l1kQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
